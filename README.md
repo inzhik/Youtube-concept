@@ -2,7 +2,7 @@
 Проект выполнил: Андрей Инжеватов
 
 ## Используемые технологии
--HTML
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
